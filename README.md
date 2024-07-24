@@ -6,33 +6,14 @@ I'm an **Analytics Engineer** specializing in **enterprise operations and financ
 
 <br>
 
-**Python**
-</p> 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py&theme=light" alt="Python" style="vertical-align: middle; margin-left: 30px;" />
-</p>
-
-- [Chess board image detection](https://github.com/sean-gits-py/chess), processing the board state (chess piece locations), and calculating optimal checkmate solutions.
-
-<br>
-
-**SQL**
-</p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres&theme=light" alt="SQL" style="vertical-align: middle; margin-right: 30px;" />
-</p>
-
-- [SQL Dimension Table](https://github.com/sean-gits-py/sql_dimension_tables), scripts for commonly needed database dimension tables.
-
-<br>
-
-## 🛠 **Tech Stack:**
+## 🛠 **Projects & Skills:**
 
 **Python:** OpenCV, Pandas, Plotly/Dash, PyTorch, SciKit Learn, Seaborn, Tensorflow
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pandas,opencv,pycharm,pytorch,tensorflow&theme=light" />
+    <img src="https://skillicons.dev/icons?i=py,pandas,opencv,pycharm,pytorch,tensorflow&theme=light" />
 </p>
+- [Chess board image detection](https://github.com/sean-gits-py/chess), processing the board state (chess piece locations), and calculating optimal checkmate solutions.
 <br>
   
 **SQL & Databases:** Microsoft SQL Server, Oracle PL/SQL, PostgreSQL, SQL Lite
@@ -40,6 +21,7 @@ I'm an **Analytics Engineer** specializing in **enterprise operations and financ
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=dynamodb,postgres,sqlite&theme=light" />
 </p>
+- [SQL Dimension Table](https://github.com/sean-gits-py/sql_dimension_tables), scripts for commonly needed database dimension tables.
 <br>
     
 **Tools:** AWS, Azure, Bash, Docker, Elasticsearch, Git, Linux, Postman
