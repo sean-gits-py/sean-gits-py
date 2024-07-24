@@ -15,7 +15,7 @@ I'm an **Analytics Engineer** specializing in **enterprise operations and financ
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 
-
+<br>
 
 <h3>🧰 Frameworks and Libraries</h3>
 
