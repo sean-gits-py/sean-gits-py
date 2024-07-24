@@ -13,7 +13,7 @@ I'm an **Analytics Engineer** specializing in **enterprise operations and financ
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgres&theme=light" alt="PostgreSQL" style="vertical-align: middle;" />
-    Python
+    PostgreSQL
   </a>
 </p>
   - [SQL Dimension Table](https://github.com/sean-gits-py/sql_dimension_tables), scripts for commonly needed database dimension tables.
