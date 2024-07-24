@@ -6,33 +6,21 @@ I'm an **Analytics Engineer** specializing in **enterprise operations and financ
 
 <br>
 
-**Python:** OpenCV, Pandas, Plotly/Dash, PyTorch, SciKit Learn, Seaborn, Tensorflow
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,opencv,pycharm,pytorch,tensorflow" />
+<p>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
 </p>
-    
+
 - [Chess board image detection](https://github.com/sean-gits-py/chess), processing the board state (chess piece locations), and calculating optimal checkmate solutions.
 - [Dash & plotly data visualization](https://github.com/sean-gits-py/dash_plotly_templates)
 - Address lookup and standardization via Google Maps API (private repo)
     
 <br>
   
-**SQL & Databases:** Microsoft SQL Server, Oracle PL/SQL, PostgreSQL, SQL Lite
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dynamodb,postgres,sqlite" />
+<p>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
 </p>
     
 - [SQL Dimension Table](https://github.com/sean-gits-py/sql_dimension_tables), scripts for commonly needed database dimension tables.
-
-<br>
-    
-**Tools:** AWS, Azure, Bash, Docker, dbt, Elasticsearch, Git, Linux, Postman
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,bash,docker,elasticsearch,linux,debian,git,lua,postman,rasberrypi" />
-</p>
 
 <br>
 
