@@ -5,8 +5,8 @@ I'm an **Analytics Engineer** specializing in **enterprise operations and financ
 🔍 **Current Projects:** My recent projects are built using linux, python, and various SQL databases. I've selected these projects to further develop my skills in **database modeling** (conceptual, logical, and physical) for complex enterprise reporting and predictive analytics.
 </p>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py&theme=light" alt="Python" style="vertical-align: middle; padding-right: 10px;" />
-  <span style="font-size: 20px;">Python</span</p>/span>
+  <img src="https://skillicons.dev/icons?i=py&theme=light" alt="Python" style="vertical-align: middle; margin-right: 10px;" />
+  <span style="font-size: 20px;">Python</span>
 </p>
 </p>
 - [Chess board image detection](https://github.com/sean-gits-py/chess), processing the board state (chess piece locations), and calculating optimal checkmate solutions.
