@@ -3,8 +3,8 @@
 I'm an **Analytics Engineer** specializing in **enterprise operations and financial reporting** with a strong background in SQL and technical program management. I enjoy diving deep into technical systems and collaborating with others to streamline and improve enterprise processes.
 
 🔍 **Current Projects:** 
-  - **Python** | [Chess board image detection](https://github.com/sean-gits-py/chess), processing the board state (chess piece locations), and calculating optimal checkmate solutions.
-  - **Data Modeling** Conceptual, Logical, and physical database modeling for enterprise predictive analytics.
+  - **Python:** [Chess board image detection](https://github.com/sean-gits-py/chess), processing the board state (chess piece locations), and calculating optimal checkmate solutions.
+  - **Data Modeling:** Conceptual, logical, and physical database modeling for enterprise reporting and predictive analytics.
 
 🛠 **Tech Stack:**
 - **Python:** OpenCV, Pandas, Plotly/Dash, PyTorch, SciKit Learn, Seaborn, Tensorflow
