@@ -3,11 +3,11 @@
 I'm an **Analytics Engineer** specializing in **enterprise operations and financial reporting** with a strong background in SQL and technical program management. I enjoy diving deep into technical systems and collaborating with others to streamline and improve enterprise processes.
 
 🔍 **Current Projects:** 
-  - **Python** | [Chess board image detection](https://github.com/sean-gits-py/chess), processing the board state (chess piece locations), and calculating optimal checkmate solutions. **
+  - **Python** | [Chess board image detection](https://github.com/sean-gits-py/chess), processing the board state (chess piece locations), and calculating optimal checkmate solutions.
   - **Data Modeling** Conceptual, Logical, and physical database modeling for enterprise predictive analytics.
 
 🛠 **Tech Stack:**
-- **Python:** OpenCV, Pandas, Plotly/Dash, PyTorch, SciKit Learn, Seaborn
+- **Python:** OpenCV, Pandas, Plotly/Dash, PyTorch, SciKit Learn, Seaborn, Tensorflow
 <p align="center"></a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
   
 - **SQL Languages:** Microsoft SQL Server, Oracle PL/SQL, PostgreSQL, SQL Lite
@@ -19,4 +19,4 @@ I'm an **Analytics Engineer** specializing in **enterprise operations and financ
 
 ### Connect with me
 
-[LinkedIn](www.linkedin.com/in/seanainsworth/)
+LinkedIn: [sean-gits-py](www.linkedin.com/in/seanainsworth/)
