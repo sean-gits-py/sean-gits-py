@@ -13,6 +13,8 @@ I'm an **Analytics Engineer** specializing in **enterprise operations and financ
 </p>
     
 - [Chess board image detection](https://github.com/sean-gits-py/chess), processing the board state (chess piece locations), and calculating optimal checkmate solutions.
+- [Dash & plotly data visualization]((https://github.com/sean-gits-py/dash_plotly_templates)
+- Address lookup and standardization via Google Maps API (private repo)
     
 <br>
   
@@ -26,7 +28,7 @@ I'm an **Analytics Engineer** specializing in **enterprise operations and financ
 
 <br>
     
-**Tools:** AWS, Azure, Bash, Docker, Elasticsearch, Git, Linux, Postman
+**Tools:** AWS, Azure, Bash, Docker, dbt, Elasticsearch, Git, Linux, Postman
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,azure,bash,docker,elasticsearch,linux,debian,git,lua,postman,rasberrypi" />
