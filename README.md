@@ -29,21 +29,21 @@ I'm an **Analytics Engineer** specializing in **enterprise operations and financ
 ## 🛠 **Tech Stack:**
 
 **Python:** OpenCV, Pandas, Plotly/Dash, PyTorch, SciKit Learn, Seaborn, Tensorflow
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=pandas,opencv,pycharm,pytorch,tensorflow&theme=light" />
 </p>
 <br>
   
 **SQL & Databases:** Microsoft SQL Server, Oracle PL/SQL, PostgreSQL, SQL Lite
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=dynamodb,postgres,sqlite&theme=light" />
 </p>
 <br>
     
-- **Tools:** AWS, Azure, Bash, Docker, Elasticsearch, Git, Linux, Postman
-<p align="center">
+**Tools:** AWS, Azure, Bash, Docker, Elasticsearch, Git, Linux, Postman
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,azure,bash,docker,elasticsearch,linux,debian,git,lua,postman,rasberrypi,&theme=light" />
 </p>
