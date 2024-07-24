@@ -6,10 +6,10 @@ I'm an **Analytics Engineer** specializing in **enterprise operations and financ
 </p>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py&theme=light" alt="Python" style="vertical-align: middle; padding-right: 10px;" />
-  Python
+  <span style="font-size: 20px;">Python</span</p>/span>
 </p>
 </p>
-  - [Chess board image detection](https://github.com/sean-gits-py/chess), processing the board state (chess piece locations), and calculating optimal checkmate solutions.
+- [Chess board image detection](https://github.com/sean-gits-py/chess), processing the board state (chess piece locations), and calculating optimal checkmate solutions.
 </p>
 <p align="left">
   <a href="https://skillicons.dev">
@@ -17,7 +17,7 @@ I'm an **Analytics Engineer** specializing in **enterprise operations and financ
     PostgreSQL
   </a>
 </p>
-  - [SQL Dimension Table](https://github.com/sean-gits-py/sql_dimension_tables), scripts for commonly needed database dimension tables.
+- [SQL Dimension Table](https://github.com/sean-gits-py/sql_dimension_tables), scripts for commonly needed database dimension tables.
 </p>
 </p>
 
