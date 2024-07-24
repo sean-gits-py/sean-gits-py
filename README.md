@@ -4,9 +4,8 @@ I'm an **Analytics Engineer** specializing in **enterprise operations and financ
 
 🔍 **Current Projects:** My recent projects are built using linux, python, and various SQL databases. I've selected these projects to further develop my skills in **database modeling** (conceptual, logical, and physical) for complex enterprise reporting and predictive analytics.
 </p>
-<p style="display: flex; align-items: center; margin: 0;">
-  <img src="https://skillicons.dev/icons?i=py&theme=light" alt="Python" style="margin-right: 10px;" />
-  <span style="font-size: 26px;">**Python**</span>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py&theme=light" alt="Python" style="vertical-align: middle;" />
 </p>
 
 
