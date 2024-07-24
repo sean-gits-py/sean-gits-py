@@ -3,18 +3,20 @@
 I'm an **Analytics Engineer** specializing in **enterprise operations and financial reporting** with a strong background in SQL and technical program management. I enjoy diving deep into technical systems and collaborating with others to streamline and improve enterprise processes. My recent projects are built using linux, python, and various SQL databases. I've selected these projects to further develop my skills in **database modeling** (conceptual, logical, and physical) for complex enterprise reporting and predictive analytics.
 
 🔍 **Current Projects:** 
-  <p align="left">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py&theme=light" />
-  </a> **Python:**
-</p> 
-  - [Chess board image detection](https://github.com/sean-gits-py/chess), processing the board state (chess piece locations), and calculating optimal checkmate solutions.
-  <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres&theme=light" />
+    <img src="https://skillicons.dev/icons?i=py&theme=light" alt="Python" style="vertical-align: middle;" />
+    Python
   </a>
-</p> **PostgreSQL:**
-  - [SQL Dimension Table](https://github.com/sean-gits-py/sql_dimension_tables), scripts for commonly needed dimension tables.
+</p>
+  - [Chess board image detection](https://github.com/sean-gits-py/chess), processing the board state (chess piece locations), and calculating optimal checkmate solutions.
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres&theme=light" alt="PostgreSQL" style="vertical-align: middle;" />
+    Python
+  </a>
+</p>
+  - [SQL Dimension Table](https://github.com/sean-gits-py/sql_dimension_tables), scripts for commonly needed database dimension tables.
 
 🛠 **Tech Stack:**
 - **Python:**
