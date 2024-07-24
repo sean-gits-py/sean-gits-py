@@ -6,12 +6,10 @@ I'm an **Analytics Engineer** specializing in **enterprise operations and financ
 
 <br>
 
-## 🛠 **Projects & Skills:**
-
 **Python:** OpenCV, Pandas, Plotly/Dash, PyTorch, SciKit Learn, Seaborn, Tensorflow
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,opencv,pycharm,pytorch,tensorflow&theme=light" />
+    <img src="https://skillicons.dev/icons?i=py,opencv,pycharm,pytorch,tensorflow" />
 </p>
     
 - [Chess board image detection](https://github.com/sean-gits-py/chess), processing the board state (chess piece locations), and calculating optimal checkmate solutions.
@@ -21,7 +19,7 @@ I'm an **Analytics Engineer** specializing in **enterprise operations and financ
 **SQL & Databases:** Microsoft SQL Server, Oracle PL/SQL, PostgreSQL, SQL Lite
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dynamodb,postgres,sqlite&theme=light" />
+    <img src="https://skillicons.dev/icons?i=dynamodb,postgres,sqlite" />
 </p>
     
 - [SQL Dimension Table](https://github.com/sean-gits-py/sql_dimension_tables), scripts for commonly needed database dimension tables.
@@ -31,5 +29,5 @@ I'm an **Analytics Engineer** specializing in **enterprise operations and financ
 **Tools:** AWS, Azure, Bash, Docker, Elasticsearch, Git, Linux, Postman
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,bash,docker,elasticsearch,linux,debian,git,lua,postman,rasberrypi,&theme=light" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,bash,docker,elasticsearch,linux,debian,git,lua,postman,rasberrypi" />
 </p>
