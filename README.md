@@ -13,7 +13,7 @@ I'm an **Analytics Engineer** specializing in **enterprise operations and financ
 </p>
     
 - [Chess board image detection](https://github.com/sean-gits-py/chess), processing the board state (chess piece locations), and calculating optimal checkmate solutions.
-- [Dash & plotly data visualization]((https://github.com/sean-gits-py/dash_plotly_templates)
+- [Dash & plotly data visualization](https://github.com/sean-gits-py/dash_plotly_templates)
 - Address lookup and standardization via Google Maps API (private repo)
     
 <br>
