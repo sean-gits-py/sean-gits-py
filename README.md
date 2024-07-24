@@ -11,7 +11,7 @@ My recent projects are built using linux, docker, python, and SQL databases. Suc
 <p><a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a></p>
 
 
-<p><a href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg"></a></p>
+<p><a href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"/><img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg"></a></p>
 
 
           
