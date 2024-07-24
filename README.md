@@ -1,4 +1,4 @@
-## Welcome! 
+**Welcome!** 
 
 I'm an **Analytics Engineer** specializing in **enterprise operations and financial reporting** with a strong background in SQL and technical program management. I enjoy diving deep into technical systems and collaborating with others to streamline and improve enterprise processes.
 
