@@ -4,7 +4,7 @@ I'm a technology professional specializing in **enterprise operations and analyt
 
 🔍 **Current Projects:**
 
-My recent projects are built using linux, docker, python, and SQL databases. Such projects enable me to further develop my skills in *database modeling* (conceptual, logical, and physical) for complex enterprise reporting and ***predictive analytics***.
+My recent projects are built using linux, docker, python, and SQL databases. Such projects enable me to further develop my skills in *data modeling* (conceptual, logical, and physical) for complex enterprise reporting and ***predictive analytics***.
 
 <br>
 
