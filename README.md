@@ -6,9 +6,7 @@ I'm an **Analytics Engineer** specializing in **enterprise operations and financ
 
 <br>
 
-<p>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-</p>
+<p><a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a></p>
 
 - [Chess board image detection](https://github.com/sean-gits-py/chess), processing the board state (chess piece locations), and calculating optimal checkmate solutions.
 - [Dash & plotly data visualization](https://github.com/sean-gits-py/dash_plotly_templates)
@@ -24,7 +22,7 @@ I'm an **Analytics Engineer** specializing in **enterprise operations and financ
 
 <br>
 
-🧰 Languages, Frameworks and Libraries
+🧰 **Languages, Frameworks and Libraries**
 
 <p>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
@@ -35,7 +33,7 @@ I'm an **Analytics Engineer** specializing in **enterprise operations and financ
     <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
 </p>
 
-🗄️ Databases and Cloud Hosting
+🗄️ **Databases and Cloud Hosting**
 
 <p>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
@@ -44,7 +42,7 @@ I'm an **Analytics Engineer** specializing in **enterprise operations and financ
     <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
 </p>
 
-💻 Software and Tools
+💻 **Software and Tools**
 
 <p>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
