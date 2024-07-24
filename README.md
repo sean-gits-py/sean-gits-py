@@ -4,10 +4,9 @@ I'm an **Analytics Engineer** specializing in **enterprise operations and financ
 
 🔍 **Current Projects:** 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py&theme=light" alt="Python" style="vertical-align: middle;" />
-    Python
-  </a>
+  <img src="https://skillicons.dev/icons?i=py&theme=light" alt="Python" style="vertical-align: middle; padding-right: 10px;" />
+  Python
+</p>
 </p>
   - [Chess board image detection](https://github.com/sean-gits-py/chess), processing the board state (chess piece locations), and calculating optimal checkmate solutions.
 <p align="left">
@@ -17,6 +16,8 @@ I'm an **Analytics Engineer** specializing in **enterprise operations and financ
   </a>
 </p>
   - [SQL Dimension Table](https://github.com/sean-gits-py/sql_dimension_tables), scripts for commonly needed database dimension tables.
+</p>
+</p>
 
 🛠 **Tech Stack:**
 - **Python:**
