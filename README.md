@@ -7,8 +7,8 @@ I'm an **Analytics Engineer** specializing in **enterprise operations and financ
 
 </p>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py&theme=light" alt="Python" style="vertical-align: middle; margin-right: 10px;" />
-  <span style="font-size: 20px;">Python</span>
+  <img src="https://skillicons.dev/icons?i=py&theme=light" alt="Python" style="vertical-align: middle; margin-right: 30px;" />
+  <span style="font-size: 30px;">Python</span>
 </p>
 
 - [Chess board image detection](https://github.com/sean-gits-py/chess), processing the board state (chess piece locations), and calculating optimal checkmate solutions.
@@ -16,8 +16,8 @@ I'm an **Analytics Engineer** specializing in **enterprise operations and financ
 
 </p>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres&theme=light" alt="SQL" style="vertical-align: middle; margin-right: 10px;" />
-  <span style="font-size: 20px;">SQL</span>
+  <img src="https://skillicons.dev/icons?i=postgres&theme=light" alt="SQL" style="vertical-align: middle; margin-right: 30px;" />
+  <span style="font-size: 30px;">SQL</span>
 </p>
 
 
