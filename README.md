@@ -18,7 +18,7 @@ My recent projects are built using linux, docker, python, and SQL databases. Suc
   
 <p><a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a></p>
     
-- [SQL Dimension Table](https://github.com/sean-gits-py/sql_dimension_tables), scripts for commonly needed database dimension tables.
+- [SQL Dimension Table](https://github.com/sean-gits-py/sql_dimension_tables) scripts for commonly needed database dimension tables.
 
 <br>
 
