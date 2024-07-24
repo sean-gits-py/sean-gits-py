@@ -10,7 +10,7 @@ I'm an **Analytics Engineer** specializing in **enterprise operations and financ
 - **Python:**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,git,docker" />
+    <img src="https://skillicons.dev/icons?i=py,git,docker&theme=light" />
   </a>
 </p>
 - **Python:** OpenCV, Pandas, Plotly/Dash, PyTorch, SciKit Learn, Seaborn, Tensorflow
