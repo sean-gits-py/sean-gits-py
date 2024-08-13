@@ -32,7 +32,8 @@ I'm a technology professional specializing in **enterprise operations and analyt
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
 </p>
 
-<br
+<br>
+
 🔍 **Current Projects:**
 
 My recent projects are built using linux, docker, python, and SQL databases. Such projects enable me to further develop my skills in *data modeling* (conceptual, logical, and physical) for complex enterprise reporting and ***predictive analytics***.
