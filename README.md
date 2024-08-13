@@ -11,13 +11,9 @@ My recent projects are built using linux, docker, python, and SQL databases. Suc
 <p><a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a></p>
 
 - [Chess board image detection](https://github.com/sean-gits-py/chess), processing the board state (chess piece locations) using computer vision (OpenCV), storing the board state as chess [Forsyth-Edwards Notation (FEN)](https://www.chess.com/terms/fen-chess), and calculating optimal checkmate solutions.
-
 <br>
-
 - [Data visualization with plotly & Dash](https://github.com/sean-gits-py/dash_plotly_templates)
-
 <br>
-
 - Address lookup and standardization via Google Maps API (private repo)
     
 <br>
