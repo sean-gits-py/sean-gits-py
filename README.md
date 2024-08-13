@@ -15,7 +15,7 @@ My recent projects are built using linux, docker, python, and SQL databases. Suc
 - [Data visualization with plotly & Dash](https://github.com/sean-gits-py/dash_plotly_templates)
 <br>
 - Address lookup and standardization via Google Maps API (private repo)
-    
+<br>
 <br>
   
 <p><a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a></p>
