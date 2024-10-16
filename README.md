@@ -39,6 +39,20 @@ I'm a technology professional specializing in **enterprise operations and analyt
 My recent projects are built using linux, docker, python, and SQL databases. Such projects enable me to further develop my skills in *data modeling* (conceptual, logical, and physical) for complex enterprise reporting and ***predictive analytics***.
 
 <br>
+  
+<p><a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a></p>
+    
+- [Stark Ind Enterprise Database](https://github.com/sean-gits-py/sql_dimension_tables) database, scripts, and fictional data for Medallion architecture 'Silver' layer. Uses principles of domain-driven design (DDD) to build Silver layer data model based on business logic.
+  
+<br>
+
+- [SQL Dimension Table](https://github.com/sean-gits-py/sql_dimension_tables) scripts for commonly needed database dimension tables.
+  
+<br>
+
+- [Data Modeling](https://github.com/sean-gits-py/sql_dimension_tables/tree/main/data_models)
+
+<br>
 
 <p><a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a></p>
 
@@ -51,14 +65,3 @@ My recent projects are built using linux, docker, python, and SQL databases. Suc
 <br>
 
 - Address lookup and standardization via Google Maps API (private repo)
-
-<br>
-  
-<p><a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a></p>
-    
-- [SQL Dimension Table](https://github.com/sean-gits-py/sql_dimension_tables) scripts for commonly needed database dimension tables.
-  
-<br>
-
-- [Data Modeling](https://github.com/sean-gits-py/sql_dimension_tables/tree/main/data_models)
-
