@@ -1,6 +1,6 @@
 **Welcome!** 
 
-I'm a technology professional specializing in **enterprise operations and analytics reporting** with a strong background in SQL and technical program management. I enjoy diving deep into technical systems and collaborating with others to streamline and improve enterprise processes. Likewise, I'm also able to break down complex technology concepts to non-technical stakeholders.
+I'm a technology professional specializing in **enterprise data operations and analytics reporting** with a strong background in SQL and technical program management. I enjoy diving deep into technical systems and collaborating with others to streamline and improve enterprise processes. Likewise, I'm also able to break down complex technology concepts to non-technical stakeholders.
 
 <br>
 
