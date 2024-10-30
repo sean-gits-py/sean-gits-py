@@ -42,9 +42,9 @@ My recent projects are built using linux, docker, python, and SQL databases. Suc
 <p><a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a></p>
     
 - [Stark Ind Enterprise Database](https://github.com/sean-gits-py/stark_corp_dataset/tree/main) For this project I am creating my own enterprise database using artificial data for fictional company Stark Industries.
-This repo contains CRUD scripts and data model information in DBML format.
-    Click here: (Stark Ind Silver Data Model](https://dbdiagram.io/d/enterprise-data-model-65fda536ae072629ceba2dbb) to see the current draft of my data model on dbdiagram.io
-     ^ As evidence by the DBML data model I use principles of domain-driven design (DDD), specifically focused on business needs/logic, to inform my layout of the Medallion architecture 'Silver' layer.
+- This repo contains CRUD scripts and data model information in DBML format.
+-     Click here: (Stark Ind Silver Data Model](https://dbdiagram.io/d/enterprise-data-model-65fda536ae072629ceba2dbb) to see the current draft of my data model on dbdiagram.io
+-      ^ As evidence by the DBML data model I use principles of domain-driven design (DDD), specifically focused on business needs/logic, to inform my layout of the Medallion architecture 'Silver' layer.
   
 <br>
 
