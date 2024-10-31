@@ -1,10 +1,9 @@
 **Welcome!** 
 
 I'm a technology professional specializing in **enterprise data operations and analytics reporting** with a strong background in SQL and technical program management. I enjoy diving deep into technical systems and collaborating with others to streamline and improve enterprise processes. Likewise, I'm also able to break down complex technology concepts to non-technical stakeholders.
-
 <br>
 
-### 🧰 **Languages, Frameworks and Libraries**
+### 🧰 ***Languages, Frameworks and Libraries***
 
 <p>
     <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" /> 
@@ -21,7 +20,7 @@ I'm a technology professional specializing in **enterprise data operations and a
     <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" /> 
 </p>
 
-### 🗄️ **Databases and Cloud Hosting**
+### 🗄️ ***Databases and Cloud Hosting***
 
 <p>
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -38,7 +37,7 @@ I'm a technology professional specializing in **enterprise data operations and a
 </p>
 
 
-### 💻 **Software and Tools**
+### 💻 ***Software and Tools***
 
 <p>
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />  
@@ -49,7 +48,7 @@ I'm a technology professional specializing in **enterprise data operations and a
 
 <br>
 
-🔍 **Current Projects:**
+### 🔍 ***Current Projects:***
 
 My recent projects are built using linux, docker, python, and SQL databases. Such projects enable me to further develop my skills in *data modeling* (conceptual, logical, and physical) for complex enterprise reporting and ***predictive analytics***.
 
