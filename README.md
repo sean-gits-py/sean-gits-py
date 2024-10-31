@@ -4,7 +4,7 @@ I'm a technology professional specializing in **enterprise data operations and a
 
 <br>
 
-## 🧰 **Languages, Frameworks and Libraries**
+### 🧰 **Languages, Frameworks and Libraries**
 
 <p>
     <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" /> 
@@ -21,7 +21,7 @@ I'm a technology professional specializing in **enterprise data operations and a
     <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" /> 
 </p>
 
-🗄️ **Databases and Cloud Hosting**
+### 🗄️ **Databases and Cloud Hosting**
 
 <p>
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -38,7 +38,7 @@ I'm a technology professional specializing in **enterprise data operations and a
 </p>
 
 
-💻 **Software and Tools**
+### 💻 **Software and Tools**
 
 <p>
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />  
