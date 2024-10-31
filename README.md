@@ -4,7 +4,7 @@ I'm a technology professional specializing in **enterprise data operations and a
 
 <br>
 
-🧰 **Languages, Frameworks and Libraries**
+## 🧰 **Languages, Frameworks and Libraries**
 
 <p>
     <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" /> 
