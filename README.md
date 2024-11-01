@@ -1,8 +1,3 @@
-**Welcome!** 
-
-I'm a technology professional specializing in **enterprise data operations and analytics reporting** with a strong background in SQL and technical program management. I enjoy diving deep into technical systems and collaborating with others to streamline and improve enterprise processes. Likewise, I'm also able to break down complex technology concepts to non-technical stakeholders.
-<br>
-
 #### 🧰 ***Languages, Frameworks & Libraries***
 
 <p>
@@ -45,6 +40,12 @@ I'm a technology professional specializing in **enterprise data operations and a
     <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/> 
 </p>
+
+<br>
+
+**Welcome!** 
+
+I'm a technology professional specializing in **enterprise data operations and analytics reporting** with a strong background in SQL and technical program management. I enjoy diving deep into technical systems and collaborating with others to streamline and improve enterprise processes. Likewise, I'm also able to break down complex technology concepts to non-technical stakeholders.
 
 <br>
 
