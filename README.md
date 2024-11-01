@@ -63,16 +63,10 @@ My recent projects are built using linux, docker, python, and SQL databases. Suc
 * [Stark Ind Silver Data Model](https://dbdiagram.io/d/enterprise-data-model-65fda536ae072629ceba2dbb) to see the current draft of my data model on dbdiagram.io
 
 * As evidence by the DBML data model I use principles of domain-driven design (DDD), specifically focused on business needs/logic, to inform my layout of the Medallion architecture 'Silver' layer.
-  
-<br>
-
-- [SQL Dimension Table](https://github.com/sean-gits-py/sql_dimension_tables) scripts for commonly needed database dimension tables.
-  
-<br>
-
-- [Data Modeling](https://github.com/sean-gits-py/sql_dimension_tables/tree/main/data_models)
 
 <br>
+
+#### Chess Puzzle Computer Vision 
 
 <p><a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a></p>
 
@@ -80,8 +74,18 @@ My recent projects are built using linux, docker, python, and SQL databases. Suc
 
 <br>
 
+
+#### Plotly & Dash Data Visualization
+
+<p><a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a></p>
+
+
 - [Data visualization with plotly & Dash](https://github.com/sean-gits-py/dash_plotly_templates)
 
 <br>
 
-- Address lookup and standardization via Google Maps API (private repo)
+#### Address Standardization
+
+<p><a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a></p>
+
+- Address lookup and standardization via Google Maps API
