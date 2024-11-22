@@ -55,7 +55,8 @@ My recent projects are built using linux, docker, python, and SQL databases. Suc
 
 <br>
 
-![Stark Industries](https://github.com/sean-gits-py/stark_corp_dataset/blob/main/Stark_Ind_logo.jpg)
+
+<img src="https://github.com/sean-gits-py/stark_corp_dataset/blob/main/Stark_Ind_logo.jpg" width="500" alt="Stark Industries Logo">
 
 ### Stark Industries Database Project
   
@@ -71,16 +72,17 @@ My recent projects are built using linux, docker, python, and SQL databases. Suc
 
 <br>
 
-#### Chess Puzzle Computer Vision 
+### Chess Puzzle Computer Vision 
 
 <p><a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a></p>
 
 - [Chess board image detection](https://github.com/sean-gits-py/chess), processing the board state (chess piece locations) using computer vision (OpenCV), storing the board state as chess [Forsyth-Edwards Notation (FEN)](https://www.chess.com/terms/fen-chess), and calculating optimal checkmate solutions.
 
-<br>
+<img src="https://github.com/sean-gits-py/chess/blob/main/images/puzzle_images/cm_puzzle_004.png" width="300" alt="Chess Puzzle 04">
 
 
-#### Plotly & Dash Data Visualization
+
+### Plotly & Dash Data Visualization
 
 <p><a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a></p>
 
@@ -89,7 +91,7 @@ My recent projects are built using linux, docker, python, and SQL databases. Suc
 
 <br>
 
-#### Address Standardization
+### Address Standardization
 
 <p><a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a></p>
 
