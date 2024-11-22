@@ -86,8 +86,9 @@ My recent projects are built using linux, docker, python, and SQL databases. Suc
 
 <p><a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a></p>
 
-
 - [Data visualization with plotly & Dash](https://github.com/sean-gits-py/dash_plotly_templates)
+  
+<img src="https://github.com/sean-gits-py/dash_plotly_templates/blob/main/newplot.png" width="1000" alt="US Birth Rates by Age Group">
 
 <br>
 
