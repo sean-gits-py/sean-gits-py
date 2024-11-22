@@ -80,7 +80,7 @@ My recent projects are built using linux, docker, python, and SQL databases. Suc
 
 <img src="https://github.com/sean-gits-py/chess/blob/main/images/puzzle_images/cm_puzzle_004.png" width="300" alt="Chess Puzzle 04">
 
-
+<br>
 
 ### Plotly & Dash Data Visualization
 
